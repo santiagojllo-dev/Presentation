@@ -116,7 +116,7 @@ const phases = [
     tagColor: "#EAB308",
   },
   {
-    year: "Oct 2024",
+    year: "2024",
     age: "25",
     title: "Graduación — Tecnólogo",
     subtitle: "ITM · Tecnología en Sistemas",
